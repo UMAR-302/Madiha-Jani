@@ -2,3 +2,4 @@
 
 
 AMNA=65
+AMNA=A5
